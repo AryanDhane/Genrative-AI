@@ -1,4 +1,2 @@
 langchain
 
-python dotenv
-
